@@ -1,0 +1,15 @@
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\bin\Debug\net6.0\SOLID.exe
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\bin\Debug\net6.0\SOLID.deps.json
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\bin\Debug\net6.0\SOLID.runtimeconfig.json
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\bin\Debug\net6.0\SOLID.dll
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\bin\Debug\net6.0\SOLID.pdb
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.AssemblyReference.cache
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfoInputs.cache
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.AssemblyInfo.cs
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.dll
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\ref\SOLID.dll
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.pdb
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\SOLID.genruntimeconfig.cache
+C:\Users\jocm\MyPrivateDocuments\codes\SOLID\SOLID\obj\Debug\net6.0\refint\SOLID.dll
